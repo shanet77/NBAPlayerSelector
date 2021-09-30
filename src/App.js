@@ -31,8 +31,7 @@ function App() {
           </Route>
         </Switch>
 
-        {/* Chats screen */}
-        {/* Individual Chat Screen */}
+      
       </Router>
     </div>
   )
